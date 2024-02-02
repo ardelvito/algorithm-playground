@@ -1,0 +1,17 @@
+Total Kata Solved: 7
+8 Kyu: 3
+7 Kyu: 1
+6 Kyu: 3
+5 Kyu:
+4 Kyu:
+3 Kyu:
+2 Kyu:
+1 Kyu:
+
+1. List Filtering - 7 Kyu (https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript)
+2. Who Likes It - 6 Kyu (https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/javascript)
+3. Create Phone Number - 6 Kyu (https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript)
+4. Build Tower - 6 Kyu (https://www.codewars.com/kata/576757b1df89ecf5bd00073b/train/javascript)
+5. Convert boolean values to strings 'Yes' or 'No' - 8 Kyu (https://www.codewars.com/kata/53369039d7ab3ac506000467/train/javascript)
+6. Sum Arrays - 8 Kyu (https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript)
+7. Counting sheep... - 8 Kyu (https://www.codewars.com/kata/54edbc7200b811e956000556/javascript)

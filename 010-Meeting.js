@@ -1,6 +1,7 @@
 // https://www.codewars.com/kata/59df2f8f08c6cec835000012/train/javascript
 // 6 kyu
 // Meeting
+
 function meeting(s) {
     // your code
     var guest = s.toUpperCase().split(';');
